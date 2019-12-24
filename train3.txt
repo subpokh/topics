@@ -1,0 +1,5 @@
+Today, natural language processing practitioners have many options when it comes to acquiring annotated datasets to train their algorithms. Newbie data scientists and software engineers developing NLP models have several public datasets available to them as they begin their careers, as well as tools and solutions that make generating custom annotations far more efficient than in years past. (It isn�t like the old days when building an annotated corpus was uphill both ways! Or whatever.)
+
+This new, options-galore world is thanks to the very cool data science community�s philosophy of sharing results and making data and tools open-source whenever possible, as well as the emergence of the aforementioned solution providers (some cooler than others, #justsayin). This blog outlines the training data choices out there, as well as which options work best for which use cases.
+
+There are two main buckets into which sources for gathering and/or generating labeled/annotated datasets fall: pre-existing, publicly available datasets; and tools and solutions for creating your own corpus.
